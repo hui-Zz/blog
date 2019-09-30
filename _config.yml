@@ -81,7 +81,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: hui-Zz/hui-Zz.github.io
+repository: hui-Zz/hui-Zz.github.io/blog
 
 # ---------------- #
 #      Comments    #
