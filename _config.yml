@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://hui-zz.github.io
+url: https://hui-zz.github.io/blog
 date_format: "ordinal"
 title: 咖辉个人博客
 subtitle: "记录软件人生"
